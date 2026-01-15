@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am a Senior Full Stack AI Engineer
 
 <!--
 **laminarize/laminarize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/qLbcZF3" data-context="false" ><a href="//imgur.com/a/qLbcZF3"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<\br>
+# Current project: Custom RAG Chat application helping customers take ownership of their LLM chat history
+<img width="3999" height="2890" alt="resized-watermarked-Local Enabled Chat Flow" src="https://github.com/user-attachments/assets/6ae2bc1a-7bfc-450a-afd2-c08739828914" />
