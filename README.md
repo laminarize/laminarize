@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<\br>
-# Current project: Custom RAG Chat application helping customers take ownership of their LLM chat history
+
+### Current project: Custom RAG Chat application helping customers take ownership of their LLM chat history
 <img width="3999" height="2890" alt="resized-watermarked-Local Enabled Chat Flow" src="https://github.com/user-attachments/assets/6ae2bc1a-7bfc-450a-afd2-c08739828914" />
