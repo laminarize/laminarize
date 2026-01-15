@@ -1,5 +1,6 @@
 # Hi there 👋 My name is Josh Holtz
-#### I am a Senior Full Stack AI Engineer. I focus on business outcomes - not endless demos or sandbox toys.
+#### I am a Senior Full Stack AI Engineer 
+#### I build for business outcomes - not endless demos or sandbox toys... Although I have built an AI powered mixed reality cat toy... :)
 
 <!--
 **laminarize/laminarize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
