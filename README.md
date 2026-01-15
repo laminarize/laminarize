@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ### Previous project: First of its kind mixed reality video game for kids and pets alike!
 
-<img width="295" height="640" alt="signal-2025-12-31-142934" src="https://github.com/user-attachments/assets/cc4e4362-a400-4d22-8f49-e4dd1db8d5d8" />
-<img width="295" height="640" alt="signal-2025-12-31-142931" src="https://github.com/user-attachments/assets/e9439c45-bd25-4fa8-8e8c-cdbd4ef99445" />
-<img width="295" height="640" alt="signal-2025-12-31-142936" src="https://github.com/user-attachments/assets/d63f8638-38f0-427d-b86e-3579d57e25ee" />
+<img width="265" height="575" alt="signal-2025-12-31-142934" src="https://github.com/user-attachments/assets/cc4e4362-a400-4d22-8f49-e4dd1db8d5d8" />
+<img width="265" height="575" alt="signal-2025-12-31-142931" src="https://github.com/user-attachments/assets/e9439c45-bd25-4fa8-8e8c-cdbd4ef99445" />
+<img width="265" height="575" alt="signal-2025-12-31-142936" src="https://github.com/user-attachments/assets/d63f8638-38f0-427d-b86e-3579d57e25ee" />
 
 
 ### Another Previous project: Logistics tracking using edge deployed computer vision.
