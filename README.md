@@ -1,5 +1,6 @@
 # Hi there 👋 My name is Josh Holtz
-#### I am a Senior Full Stack AI Engineer 
+#### I am a Senior Software Engineer at Google
+#### My Google GitHub: laminarizeAtGoogle
 #### I build for business outcomes - not endless demos or sandbox toys... Although I have built an AI powered mixed reality cat toy... :)
 
 <!--
